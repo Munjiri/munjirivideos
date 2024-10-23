@@ -40648,55 +40648,25 @@ section.lazy-placeholder:after {
 .cid-uqY5ZfJgGG .mbr-section-subtitle {
   color: #767676;
 }
-.cid-uqYdIVAqI7 {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: #fffcfa;
+.cid-urE2LbulZC {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #fffcfa;
 }
-.cid-uqYdIVAqI7 .images-container.container-fluid {
-  padding: 0;
-}
-.cid-uqYdIVAqI7 .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-uqYdIVAqI7 .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
-}
-.cid-uqYdIVAqI7 .media-container-row .img-item img {
-  width: 100%;
-  min-height: 1px;
-}
-.cid-uqYdIVAqI7 .media-container-row .img-item .img-caption {
-  background: #ffffff;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-uqYdIVAqI7 .media-container-row .img-item .img-caption p {
+.cid-urE2LbulZC h4 {
+  font-weight: 500;
   margin-bottom: 0;
+  text-align: left;
 }
-.cid-uqYdIVAqI7 .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
+.cid-urE2LbulZC p {
+  color: #767676;
+  text-align: left;
 }
-@media (max-width: 992px) {
-  .cid-uqYdIVAqI7 .img-item {
-    width: 100% !important;
-  }
-  .cid-uqYdIVAqI7 .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
-  }
+.cid-urE2LbulZC .card-box {
+  padding-top: 2rem;
+}
+.cid-urE2LbulZC .card-wrapper {
+  height: 100%;
 }
 .cid-uqYWzZIH0B {
   padding-top: 60px;
@@ -40778,6 +40748,37 @@ section.lazy-placeholder:after {
 }
 .cid-tvEq2OJazT .media-container-row .mbr-text {
   color: #000000;
+}
+.cid-urGnJe9RHH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fffcfa;
+}
+.cid-urGnJe9RHH .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-urGnJe9RHH .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-urGnJe9RHH .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-urGnJe9RHH .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-urGnJe9RHH .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-tCwMawpoW5 .navbar {
   background: #fffcfa;
