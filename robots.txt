@@ -1,5 +1,2 @@
 User-agent: *
-Allow: /
 Disallow: /cgi-bin
-
-Sitemap: https://www.munjiri.com/sitemap_index.xml
